@@ -1,0 +1,12 @@
+C:\Users\Brian\OneDrive\Advanced C#\EmployeeManagment_CIS174\Project\EmployeeManagment\EmployeeManagment.Domain\obj\Debug\EmployeeManagment.Domain.csprojAssemblyReference.cache
+C:\Users\Brian\OneDrive\Advanced C#\EmployeeManagment_CIS174\Project\EmployeeManagment\EmployeeManagment.Domain\obj\Debug\EmployeeManagment.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Brian\OneDrive\Advanced C#\EmployeeManagment_CIS174\Project\EmployeeManagment\EmployeeManagment.Domain\bin\Debug\EmployeeManagment.Domain.dll.config
+C:\Users\Brian\OneDrive\Advanced C#\EmployeeManagment_CIS174\Project\EmployeeManagment\EmployeeManagment.Domain\bin\Debug\EmployeeManagment.Domain.dll
+C:\Users\Brian\OneDrive\Advanced C#\EmployeeManagment_CIS174\Project\EmployeeManagment\EmployeeManagment.Domain\bin\Debug\EmployeeManagment.Domain.pdb
+C:\Users\Brian\OneDrive\Advanced C#\EmployeeManagment_CIS174\Project\EmployeeManagment\EmployeeManagment.Domain\bin\Debug\EntityFramework.dll
+C:\Users\Brian\OneDrive\Advanced C#\EmployeeManagment_CIS174\Project\EmployeeManagment\EmployeeManagment.Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Brian\OneDrive\Advanced C#\EmployeeManagment_CIS174\Project\EmployeeManagment\EmployeeManagment.Domain\bin\Debug\EntityFramework.xml
+C:\Users\Brian\OneDrive\Advanced C#\EmployeeManagment_CIS174\Project\EmployeeManagment\EmployeeManagment.Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Brian\OneDrive\Advanced C#\EmployeeManagment_CIS174\Project\EmployeeManagment\EmployeeManagment.Domain\obj\Debug\EmployeeManagment.Domain.csproj.CopyComplete
+C:\Users\Brian\OneDrive\Advanced C#\EmployeeManagment_CIS174\Project\EmployeeManagment\EmployeeManagment.Domain\obj\Debug\EmployeeManagment.Domain.dll
+C:\Users\Brian\OneDrive\Advanced C#\EmployeeManagment_CIS174\Project\EmployeeManagment\EmployeeManagment.Domain\obj\Debug\EmployeeManagment.Domain.pdb

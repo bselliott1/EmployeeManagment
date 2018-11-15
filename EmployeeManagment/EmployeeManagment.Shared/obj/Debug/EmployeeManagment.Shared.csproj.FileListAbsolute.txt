@@ -1,0 +1,15 @@
+C:\Users\Brian\OneDrive\Advanced C#\EmployeeManagment_CIS174\Project\EmployeeManagment\EmployeeManagment.Shared\obj\Debug\EmployeeManagment.Shared.csprojAssemblyReference.cache
+C:\Users\Brian\OneDrive\Advanced C#\EmployeeManagment_CIS174\Project\EmployeeManagment\EmployeeManagment.Shared\obj\Debug\EmployeeManagment.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Brian\OneDrive\Advanced C#\EmployeeManagment_CIS174\Project\EmployeeManagment\EmployeeManagment.Shared\bin\Debug\EmployeeManagment.Shared.dll.config
+C:\Users\Brian\OneDrive\Advanced C#\EmployeeManagment_CIS174\Project\EmployeeManagment\EmployeeManagment.Shared\bin\Debug\EmployeeManagment.Shared.dll
+C:\Users\Brian\OneDrive\Advanced C#\EmployeeManagment_CIS174\Project\EmployeeManagment\EmployeeManagment.Shared\bin\Debug\EmployeeManagment.Shared.pdb
+C:\Users\Brian\OneDrive\Advanced C#\EmployeeManagment_CIS174\Project\EmployeeManagment\EmployeeManagment.Shared\bin\Debug\EmployeeManagment.Domain.dll
+C:\Users\Brian\OneDrive\Advanced C#\EmployeeManagment_CIS174\Project\EmployeeManagment\EmployeeManagment.Shared\bin\Debug\EntityFramework.dll
+C:\Users\Brian\OneDrive\Advanced C#\EmployeeManagment_CIS174\Project\EmployeeManagment\EmployeeManagment.Shared\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Brian\OneDrive\Advanced C#\EmployeeManagment_CIS174\Project\EmployeeManagment\EmployeeManagment.Shared\bin\Debug\EmployeeManagment.Domain.pdb
+C:\Users\Brian\OneDrive\Advanced C#\EmployeeManagment_CIS174\Project\EmployeeManagment\EmployeeManagment.Shared\bin\Debug\EmployeeManagment.Domain.dll.config
+C:\Users\Brian\OneDrive\Advanced C#\EmployeeManagment_CIS174\Project\EmployeeManagment\EmployeeManagment.Shared\bin\Debug\EntityFramework.xml
+C:\Users\Brian\OneDrive\Advanced C#\EmployeeManagment_CIS174\Project\EmployeeManagment\EmployeeManagment.Shared\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Brian\OneDrive\Advanced C#\EmployeeManagment_CIS174\Project\EmployeeManagment\EmployeeManagment.Shared\obj\Debug\EmployeeManagment.Shared.csproj.CopyComplete
+C:\Users\Brian\OneDrive\Advanced C#\EmployeeManagment_CIS174\Project\EmployeeManagment\EmployeeManagment.Shared\obj\Debug\EmployeeManagment.Shared.dll
+C:\Users\Brian\OneDrive\Advanced C#\EmployeeManagment_CIS174\Project\EmployeeManagment\EmployeeManagment.Shared\obj\Debug\EmployeeManagment.Shared.pdb

@@ -1,0 +1,50 @@
+﻿@model EmployeeManagment.Models.EmployeeDisplayModel
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>All Employees</title>
+</head>
+<body>
+    <div class="container">
+        <h2>All Employees</h2>
+        <div class="table-responsive">
+            <table class="table table-bordered">
+                <thead>
+                    <tr>
+                        <th>Employee Id:</th>
+                        <th>First Name:</th>
+                        <th>Middle Initial:</th>
+                        <th>Last Name:</th>
+                        <th>Hire Date:</th>
+                        <th>Salary:</th>
+                        <th>Salary Type:</th>
+                        <th>Job Title:</th>
+                        <th>Department:</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @#line 2 "C:\Users\Brian\OneDrive\Advanced C#\EmployeeManagment_CIS174\Project\EmployeeManagment\EmployeeManagment\Views\AllEmployees\Index.cshtml"
+                                /**/
+                                foreach (var employee in Model.Employees)
+                                {
+                                    <tr>
+                                        <td>@employee.EmployeeId</td>
+                                        <td>@employee.FirstName</td>
+                                        <td>@employee.MiddleName.ToString().Substring(0, 1)</td>
+                                        <td>@employee.LastName</td>
+                                        <td>@employee.HireDate.ToString("MM/dd/yyyy")</td>
+                                        <td>@employee.PayRate</td>
+                                        <td>@employee.SalaryType.ToString()</td>
+                                        <td>@employee.JobTitle</td>
+                                        <td>@employee.Department</td>
+                                    </tr>
+                                }
+                </tbody>
+            </table>
+        </div>
+    </div>
+</body>
+</html>
